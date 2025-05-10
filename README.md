@@ -1,4 +1,4 @@
-<h2 align="center">✨Davi Salles Coutinho✨</h2>
+<h2 align="center">Davi Salles Coutinho</h2>
 
 <p align="center">
   🎓 Ensino médio completo no Colégio Adventista de São Caetano do Sul <br/>

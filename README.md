@@ -24,4 +24,4 @@
 
 ### 📫 Onde me encontrar:
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/iara-aguilar-615913250](https://www.linkedin.com/in/davisalles/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/davisalles/])

@@ -24,4 +24,4 @@
 
 ### 📫 Onde me encontrar:
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/davisalles/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/davisalles/)

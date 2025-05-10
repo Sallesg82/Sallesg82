@@ -25,4 +25,4 @@
 ### 📫 Onde me encontrar:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/davisalles/)
-- 📩 Email - davisallesg@yahoo.com
+- 📩 davisallesg@yahoo.com

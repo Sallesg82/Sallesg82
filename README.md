@@ -18,7 +18,7 @@
 
 ### 🌱 Em constante evolução...
 
-> Estou aprendendo mais sobre programação, dados e como usar essas ferramentas para resolver problemas do mundo real. Cada linha de código é um passo mais perto dos meus sonhos! 💻✨
+> Estou cada vez mais me atualizando no mundo da tecnologia, aprendendo a como usar os dados e como usar essas ferramentas para resolver problemas do mundo real. Cada linha de código é um passo mais perto dos meus sonhos! 💻✨
 
 
 
